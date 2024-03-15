@@ -1,8 +1,20 @@
-# Every Helldivers Needs A Companion
+<p align="center">
+  <img src="../logo-light.png#gh-light-mode-only" width="218px" alt="Helldivers Companion logo" />
+  <img src="../logo-dark.png#gh-dark-mode-only" width="218px" alt="Helldivers Companion logo" />
+</p>
 
-We are the creators of the [Helldivers Companion API](https://github.com/helldivers-companion/api) and the Helldivers Companion App  (cooming soon). We believe that the community should have free access to all game data on the fly instead of paying for a ad-free experience, looking at you [helldivers.io](https://helldivers.io). Thats also why we are open source to give back to the amazing Helldivers 2 community.
+<h3 align="center">Every Helldivers Needs A Companion</h3>
+<p align="center">
+  We are the creators of the <a target="_blank" href="https://github.com/helldivers-companion/api">Helldivers Companion API</a> and the Helldivers Companion App  (cooming soon). We are open source to give back to the amazing Helldivers 2 community.
+</p>
 
-## Inspiration
+<br>
+
+## Philosophy
+
+We believe that the community should have free access to all game data on the fly instead of paying for a ad-free experience. Not sharing your code while posing as "community-driven" is also a no-no. Looking at you <a href="helldivers.io" target="_blank">helldivers.io</a>. 
+
+## Motivation
 
 Helldivers 2 is a blast and not only offers some of the best gameplay we have seen in years but also the urge to interact with the game world when not in front of your PS5 or PC. This is why we created the Helldivers Companion API: To give everyone including us a change to interact with the games data source.
 
