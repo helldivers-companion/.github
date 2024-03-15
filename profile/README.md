@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="../logo-light.png#gh-light-mode-only" width="218px" alt="Helldivers Companion logo" />
-  <img src="../logo-dark.png#gh-dark-mode-only" width="218px" alt="Helldivers Companion logo" />
+  <img src="https://github.com/helldivers-companion/.github/blob/main/logo-dark.png#gh-light-mode-only" width="218px" alt="Helldivers Companion logo" />
+  <img src="https://github.com/helldivers-companion/.github/blob/main/logo-dark.png#gh-dark-mode-only" width="218px" alt="Helldivers Companion logo" />
 </p>
 
 <h3 align="center">Every Helldivers Needs A Companion</h3>
