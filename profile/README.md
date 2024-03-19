@@ -5,7 +5,7 @@
 
 <h3 align="center">Every Helldivers Needs A Companion</h3>
 <p align="center">
-  We are the creators of the <a target="_blank" href="https://github.com/helldivers-companion/api">Helldivers Companion API</a> and the Helldivers Companion App  (cooming soon). We are open source to give back to the amazing Helldivers 2 community.
+  We are the creators of the <a target="_blank" href="https://github.com/helldivers-companion/api">Helldivers Companion API</a> and the HellHub App  (cooming soon). We are open source to give back to the amazing Helldivers 2 community.
 </p>
 
 <br>
