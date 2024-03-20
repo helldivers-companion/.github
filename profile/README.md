@@ -2,7 +2,7 @@
   <img src="https://github.com/helldivers-companion/.github/blob/main/logo.png" width="150px" alt="Helldivers Companion logo" />
 </p>
 
-<h3 align="center">HellHub is where Helldivers come together.</h3>
+<h3 align="center">HellHub - Where Helldivers Come Together.</h3>
 <p align="center">
   We are the creators of the <a target="_blank" href="https://github.com/hellhub-collective/api">HellHub API</a> and the HellHub App (coming soon). We are open source to give back to the amazing Helldivers 2 community.
 </p>
