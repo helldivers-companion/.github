@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/helldivers-companion/.github/blob/main/logo-dark.png#gh-light-mode-only" width="150px" alt="Helldivers Companion logo" />
-  <img src="https://github.com/helldivers-companion/.github/blob/main/logo-dark.png#gh-dark-mode-only" width="150px" alt="Helldivers Companion logo" />
+  <img src="https://github.com/helldivers-companion/.github/blob/main/logo.png" width="150px" alt="Helldivers Companion logo" />
 </p>
 
 <h3 align="center">HellHub is where Helldivers come together.</h3>
