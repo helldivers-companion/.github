@@ -3,9 +3,9 @@
   <img src="https://github.com/helldivers-companion/.github/blob/main/logo-dark.png#gh-dark-mode-only" width="150px" alt="Helldivers Companion logo" />
 </p>
 
-<h3 align="center">Every Helldivers Needs A Companion</h3>
+<h3 align="center">HellHub is where Helldivers come together.</h3>
 <p align="center">
-  We are the creators of the <a target="_blank" href="https://github.com/helldivers-companion/api">Helldivers Companion API</a> and the HellHub App  (coming soon). We are open source to give back to the amazing Helldivers 2 community.
+  We are the creators of the <a target="_blank" href="https://github.com/hellhub-collective/api">HellHub API</a> and the HellHub App (coming soon). We are open source to give back to the amazing Helldivers 2 community.
 </p>
 
 <br>
