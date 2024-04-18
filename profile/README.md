@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/helldivers-companion/.github/blob/main/logo.png" width="150px" alt="Helldivers Companion logo" />
+  <img src="https://github.com/helldivers-companion/.github/blob/main/logo.png" width="150px" alt="HellHub logo" />
 </p>
 
 <h3 align="center">HellHub - Where Helldivers Come Together.</h3>
@@ -15,7 +15,7 @@ We believe that the community should have free access to all game data on the fl
 
 ## Motivation
 
-Helldivers 2 is a blast and not only offers some of the best gameplay we have seen in years but also the urge to interact with the game world when not in front of your PS5 or PC. This is why we created the Helldivers Companion API: To give everyone including us a change to interact with the games data source.
+Helldivers 2 is a blast and not only offers some of the best gameplay we have seen in years but also the urge to interact with the game world when not in front of your PS5 or PC. This is why we created the HellHub API: To give everyone including us a change to interact with the games data source.
 
 ## Contributing
 
