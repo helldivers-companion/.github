@@ -4,7 +4,7 @@
 
 <h3 align="center">HellHub - Where Helldivers Come Together.</h3>
 <p align="center">
-  We are the creators of the <a target="_blank" href="https://github.com/hellhub-collective/api">HellHub API</a> and the HellHub App (coming soon). We are open source to give back to the amazing Helldivers 2 community.
+  We are the creators of the <a target="_blank" href="https://github.com/hellhub-collective/api">HellHub API</a>. We believe in open source to give back to the amazing Helldivers 2 community.
 </p>
 
 <br>
@@ -16,6 +16,16 @@ We believe that the community should have free access to all game data on the fl
 ## Motivation
 
 Helldivers 2 is a blast and not only offers some of the best gameplay we have seen in years but also the urge to interact with the game world when not in front of your PS5 or PC. This is why we created the HellHub API: To give everyone including us a easy way to interact with the games data source.
+
+## Our projects
+
+We have long surpassed the initial goal of only providing a easy-to-use API and have update our API based on user feedback and created some additional projects for everybody. Of course these projects are also open source and free to use!
+
+- [**SDK**](https://github.com/hellhub-collective/sdk): A completely type safe and autocomplete ready SDK to access all data within our API. We even built a integrated query builder that can create complex queries with ease!
+
+- [**CLI**](https://github.com/hellhub-collective/cli): Built on top of our API and leveraging the capabilities of our SDK: A command line interface for Helldivers 2: View the war progress without leaving your terminal!
+
+- [**API**](https://github.com/hellhub-collective/api): Effortlessly use Helldivers 2 data in your apps. Our data updates **every minute**. No registration, authorization or bearer tokens. Democratically approved!
 
 ## Contributing
 
